@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kD5XLs+Ch2V7RROsjor3aGld5qdLWpzEEbgucUfL2RuCGsAgZe6Sj0AqC+TnLxzBtJMczvsQNJHMVF6Ifk+03Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lonovo\\Desktop\\upschool\\upschool_ozlem_repos\\SeleniumInstagramFollower\\instagramSeleniumCsharp\\instagramSeleniumCsharp\\instagramSeleniumCsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lonovo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\lonovo\\.nuget\\packages\\selenium.webdriver\\4.9.1\\selenium.webdriver.4.9.1.nupkg.sha512",
+    "C:\\Users\\lonovo\\.nuget\\packages\\selenium.webdriver.chromedriver\\113.0.5672.6300\\selenium.webdriver.chromedriver.113.0.5672.6300.nupkg.sha512"
+  ],
+  "logs": []
+}
